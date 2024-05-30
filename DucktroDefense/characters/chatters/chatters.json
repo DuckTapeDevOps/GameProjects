@@ -1,0 +1,22 @@
+{
+	"mobs": [
+		{
+			"name": "FoolBox",
+			"texture": "res://characters/chatters/Foolbox.png",
+			"damage": 10,
+			"health": 100
+		},
+		{
+			"name": "SkipTitanium",
+			"texture": "res://characters/chatters/Raym0nd83.png",
+			"damage": 15,
+			"health": 80
+		},
+		{
+			"name": "SkipTitanium",
+			"texture": "res://characters/chatters/SkipTitanium.png",
+			"damage": 20,
+			"health": 50
+		}
+	]
+}
